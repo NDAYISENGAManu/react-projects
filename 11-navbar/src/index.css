@@ -10,7 +10,7 @@ Variables
   --clr-primary-2: hsl(205, 77%, 27%);
   --clr-primary-3: hsl(205, 72%, 37%);
   --clr-primary-4: hsl(205, 63%, 48%);
-  /* primary/main color */
+  /* primary/main color */ 
   --clr-primary-5: hsl(205, 78%, 60%);
   /* lighter shades of primary color */
   --clr-primary-6: hsl(205, 89%, 70%);
@@ -223,10 +223,10 @@ nav {
   }
   .social-icons a {
     margin: 0 0.5rem;
-    color: var(--clr-primary-5);
+    color: var(--clr-gray-5);
     transition: var(--transition);
   }
   .social-icons a:hover {
-    color: var(--clr-primary-7);
+    color: var(--clr-primary-5);
   }
 }
